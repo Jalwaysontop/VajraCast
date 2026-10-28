@@ -90,8 +90,7 @@ The console needs no change.
         ├── assets/geo/
         ├── components/
         ├── data/
-        │   ├── api/            calls to the backend
-        │   └── mock/           mock data
+        │   └── api/            calls to the backend
         ├── features/
         │   ├── cells/
         │   ├── map/
